@@ -9,6 +9,14 @@ Predicting diabetes risk using a Decision Tree on the Pima Indians Diabetes Data
 - Modelling: Decision Tree (stratified 80/20 split, random_state set), optional standardisation for future model comparability.
 - Evaluation: accuracy, confusion matrix, full classification report, ROC–AUC.
 
+## Tech Stack
+- **Python**: pandas, scikit-learn, matplotlib (and seaborn for EDA)
+- Notebook and code included
+
+## Files
+- `Python code Colab.ipynb` / `All python code.docx`
+- Final report write-up
+
 ## Results
 - Test accuracy: **~72.1%**
 - ROC–AUC: **~0.67**
@@ -19,11 +27,3 @@ Predicting diabetes risk using a Decision Tree on the Pima Indians Diabetes Data
 
 #### ROC Curve
 ![ROC Curve](image.png)
-
-## Tech Stack
-- **Python**: pandas, scikit-learn, matplotlib (and seaborn for EDA)
-- Notebook and code included
-
-## Files
-- `Python code Colab.ipynb` / `All python code.docx`
-- Final report write-up
