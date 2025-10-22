@@ -13,6 +13,12 @@ Predicting diabetes risk using a Decision Tree on the Pima Indians Diabetes Data
 - Test accuracy: **~72.1%**
 - ROC–AUC: **~0.67**
 - Observations: model favours majority (non-diabetic) class; improvement paths include class weighting/oversampling or ensembles (e.g., Random Forest).
+- ### Visualisations
+#### Confusion Matrix
+![Confusion Matrix](confusionmatrix.png)
+
+#### ROC Curve
+![ROC Curve](image.png)
 
 ## Tech Stack
 - **Python**: pandas, scikit-learn, matplotlib (and seaborn for EDA)
